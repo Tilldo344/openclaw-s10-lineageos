@@ -302,7 +302,7 @@ Then open `http://localhost:*****` in your PC's browser and enter the gateway to
 
 - **Used Mini-PC** (~€150): HP EliteDesk 800 G4 (i5-8500, 16GB RAM) + 32GB RAM upgrade (~€40) → Can run quantized 7B-14B models (CPU-only).
 - **Existing PC with RX 5700 XT (8GB VRAM)**: Excellent for 7B-9B models via `llama.cpp` (OpenCL/HIP). Good for Qwen2.5 7B or Llama 3.1 8B.
-
+- **Fix for Ollama with AMD GPU´s : https://github.com/ByronLeeeee/Ollama-For-AMD-Installer/releases.
 ---
 
 ## 📌 Important Notes
